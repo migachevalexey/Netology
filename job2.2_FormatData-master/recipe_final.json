@@ -1,0 +1,22 @@
+[
+  {
+    "ingridient_name": "помидоры",
+    "quantity": 500,
+    "measure": "гр."
+  },
+  {
+    "ingridient_name": "огурцы",
+    "quantity": 750,
+    "measure": "гр."
+  },
+  {
+    "ingridient_name": "масло",
+    "quantity": 500,
+    "measure": "мл."
+  },
+  {
+    "ingridient_name": "лук",
+    "quantity": 5,
+    "measure": "шт."
+  }
+]

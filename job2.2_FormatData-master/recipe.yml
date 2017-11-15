@@ -1,0 +1,40 @@
+Омлет:
+-
+    ingridient_name: яйца
+    quantity: 2
+    measure: шт.
+-
+    ingridient_name: молоко
+    quantity: 50
+    measure: мл.
+-
+    ingridient_name: помидор
+    quantity: 100
+    measure: гр.
+Стейк:
+-   ingridient_name: говядина 
+    quantity: 300 
+    measure: гр.
+-   ingridient_name: специи
+    quantity: 5
+    measure: гр.
+-   ingridient_name: масло
+    quantity: 10
+    measure: мл.
+Салат:
+-
+    ingridient_name: помидоры 
+    quantity: 100 
+    measure: гр.
+-    
+    ingridient_name: огурцы 
+    quantity: 150 
+    measure: гр.
+-    
+    ingridient_name: масло 
+    quantity: 100
+    measure: мл.
+-    
+    ingridient_name: лук 
+    quantity: 1 
+    measure: шт.
